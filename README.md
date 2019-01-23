@@ -1,7 +1,4 @@
-# Java
-Data Structures and Algorithms
-
-Binary Search Tree
+# Binary Search Tree
 
 A PacMan-like game that involves displaying graphical objects (a set of pixels forming an image), moving them around onscreen, and detecting collisions between them when they occur.
 
