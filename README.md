@@ -15,4 +15,4 @@ The program that displays the graphical objects will receive as input a file con
 
 • target objects, that disappear when the user-controlled objects run into them.
 
-These graphical objects will be part of a “pac-man”-like game. Objects moved by the computer will chase the user controlled ones. These latter in turn will try to get rid of the target objects. Fixed objects constrain the movement of the mobile ones.
+Objects moved by the computer will chase the user controlled ones. These latter in turn will try to get rid of the target objects. Fixed objects constrain the movement of the mobile ones.
